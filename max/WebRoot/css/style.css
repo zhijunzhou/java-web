@@ -1,0 +1,23 @@
+body {
+	background: url('../img/msyy-bg.png') no-repeat center center;
+	background-size: cover;
+	background-color: #aaa;
+}
+* {
+	font-size: 14px;
+}
+a {
+	font-size: 14px;
+}
+.glyphicon {
+	line-height: 20px;
+}
+.text-red {
+	color:#ff0000;
+}
+.sidebar-menu .treeview-menu>li>a {
+	font-size: 12px;
+}
+.row {
+	margin-bottom: 10px;
+}

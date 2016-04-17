@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.apdisk
+/.metadata
+/max/.settings/
+/msyy
+*.zip
+*.jar
+*.class

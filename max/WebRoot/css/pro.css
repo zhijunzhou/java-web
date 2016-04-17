@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+body {
+	background-size: cover;
+}
+#pro-top-nav {
+	height: auto;
+	min-height: 30px;
+	line-height: 30px;
+}
+.breadcrumb {
+	background-color: transparent;	
+}
+.row {
+	margin-bottom: 15px;
+}
+.text-condition {
+	font-size: 12px;	
+}
+input[type="checkbox"] {
+	margin: 3px 0 0;	
+}
